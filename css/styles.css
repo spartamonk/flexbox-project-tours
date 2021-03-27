@@ -232,7 +232,7 @@ Navbar
 @media screen and (min-width:992px) {
   /* hid toggle button */
   .navbar {
-    padding: 1rem 2rem;
+    padding: 1rem 2remgit ;
   }
   .nav-toggle {
     display: none;
